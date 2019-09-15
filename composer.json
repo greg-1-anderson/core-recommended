@@ -56,5 +56,8 @@
         "zendframework/zend-escaper": "2.5.2",
         "zendframework/zend-feed": "2.7.0",
         "zendframework/zend-stdlib": "3.0.1"
+    },
+    "conflict": {
+        "webflo/drupal-core-strict": "*"
     }
 }
